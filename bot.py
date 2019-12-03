@@ -27,6 +27,6 @@ if not responce:
 
 print(responce)
 
-if 'さようなら' in command:
-  print("じゃあね！")
-  break
+# if 'さようなら' in command:
+#   print("じゃあね！")
+#   break
